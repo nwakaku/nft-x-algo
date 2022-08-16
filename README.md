@@ -25,4 +25,4 @@ This is an NFT auction DAPPs where users can bid on NFTs
 
 
 ### Project Link
-https://filecoin-shortvideo.vercel.app/
+
